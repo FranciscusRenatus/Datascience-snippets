@@ -1,2 +1,2 @@
-# data_science_snippets
+# Data_Science_Snippets
 code snippets for data science 
